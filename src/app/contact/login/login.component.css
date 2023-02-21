@@ -1,0 +1,19 @@
+h2{
+    color:#FF26BE;
+    text-shadow: 2px 2px gray;
+}
+.btn{
+    background-color: #FF26BE !important;
+    color: #fff;
+    text-align: center;
+    box-shadow: 4px 4px 4px gray;
+  
+   
+}
+.btna{
+    text-align: center;
+    margin-top: 7%;
+}
+a:hover{
+    text-decoration: none;
+}
